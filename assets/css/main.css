@@ -1953,7 +1953,7 @@ input, select, textarea {
 			}
 
 		.main.dark {
-			color: #ffffff;
+			color: black;
 		}
 
 			.main.dark a {
@@ -2146,11 +2146,11 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
-		background-size: 256px 256px, cover;
+		background: url("images/michael-shannon-iIrB37J5yfA-unsplash.jpg"), url("../../images/intro.jpg");
+		background-size: 1600px 1100px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
-		background-repeat: repeat, no-repeat;
+		background-repeat: repeat,no-repeat;
 	}
 
 /* One */
