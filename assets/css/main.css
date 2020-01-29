@@ -2156,8 +2156,8 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
-		background-size: 256px 256px, cover;
+		background: url("images/joshua-earle-GO2atRL73uE-unsplash.jpg"), url("../../images/one.jpg");
+		background-size: 1600px 1000px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
