@@ -28,10 +28,6 @@
 
 
 
-	Other Stuff:
-
-		- If you don't like the way images are tinted, either change "images/overlay.png"
-		  to something else, or remove all references to it from css/style.css.
 
 
 Credits:
@@ -44,5 +40,4 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
-		Poptrox (github.com/ajlkn/jquery.poptrox)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
+	
